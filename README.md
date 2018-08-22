@@ -1,4 +1,4 @@
-# SafeQueue [![Build Status](https://travis-ci.org/valinurovam/safequeue.svg?branch=master)](https://travis-ci.org/valinurovam/safequeue) [![Coverage Status](https://coveralls.io/repos/github/valinurovam/safequeue/badge.svg)](https://coveralls.io/github/valinurovam/safequeue) [![Go Report Card](https://goreportcard.com/badge/github.com/valinurovam/safequeue)](https://goreportcard.com/report/github.com/valinurovam/safequeue)
+# SafeQueue [![Build Status](https://travis-ci.org/valinurovam/safequeue.svg?branch=master)](https://travis-ci.org/valinurovam/safequeue) [![Coverage Status](https://coveralls.io/repos/github/valinurovam/safequeue/badge.svg)](https://coveralls.io/github/valinurovam/safequeue) [![Go Report Card](https://goreportcard.com/badge/github.com/valinurovam/safequeue)](https://goreportcard.com/report/github.com/valinurovam/safequeue) [![GoDoc](https://godoc.org/github.com/valinurovam/safequeue?status.svg)](https://godoc.org/github.com/valinurovam/safequeue)
 
 SafeQueue is low-level, in-memory, thread-safe, simple and fast FIFO queue in pure Go.
 
