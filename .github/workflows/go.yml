@@ -27,5 +27,5 @@ jobs:
     - name: Test
       run: go test -v ./... -covermode=count -coverprofile=profile.cov
 
-    - name: Publish Coverage
-      run: $GOPATH/bin/goveralls -coverprofile=profile.cov -service=git-actions
+    - name: Coveralls GitHub Action
+      uses: coverallsapp/github-action@1.1.3
